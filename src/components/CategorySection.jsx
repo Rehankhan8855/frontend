@@ -1,7 +1,7 @@
 import React from 'react'
-import ManCategory from '../assets/images/man.jpg';
-import WomanCategory from '../assets/images/woman.jpg';
-import KidCategory from '../assets/images/kid.jpg';
+import ManCategory from '../assets/Images/man.jpg';
+import WomanCategory from '../assets/Images/woman.jpg';
+import KidCategory from '../assets/Images/kid.jpg';
 
 const categories = [
     {
